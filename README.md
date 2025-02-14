@@ -57,7 +57,7 @@ function as_js_array(arr) {
 }
 ```
 
-With this fucntion, let's run this sample?
+With this function, let's run this sample?
 
 ```js
 function as_js_array(arr) {
